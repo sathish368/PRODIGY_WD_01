@@ -1,4 +1,5 @@
-Interactive Navigation Menu:
+                                                                                    Interactive Navigation Menu
+INTRODUCTION:
 This project is an interactive navigation menu with a fixed position, visible on all pages. The menu changes its color and style dynamically when the user scrolls the page or hovers over a menu item. This is achieved using HTML for the structure, CSS for styling, and JavaScript for interactivity.
 
 Features
