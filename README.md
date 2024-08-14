@@ -16,3 +16,19 @@ interactive-navigation-menu/
 ├── index.html       # The main HTML file that contains the structure of the navigation menu
 ├── style.css        # The CSS file that styles the navigation menu and defines the hover and scroll effects
 └── script.js        # The JavaScript file that adds interactivity to the menu
+
+Contributing:
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+Contact
+Your Name - vsathish1392003@gmail.com
+
+Project Link: https://github.com/sathish368/PRODIGY_WD_01.git
+
+
