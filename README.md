@@ -12,10 +12,10 @@ CSS: For styling the navigation menu and implementing the hover and scroll effec
 JavaScript: For adding interactivity to the menu, such as changing styles when scrolling or hovering.
 
 interactive-navigation-menu/
-│
-├── index.html       # The main HTML file that contains the structure of the navigation menu
-├── style.css        # The CSS file that styles the navigation menu and defines the hover and scroll effects
-└── script.js        # The JavaScript file that adds interactivity to the menu
+
+*index.html       # The main HTML file that contains the structure of the navigation menu
+* style.css        # The CSS file that styles the navigation menu and defines the hover and scroll effects
+* script.js        # The JavaScript file that adds interactivity to the menu
 
 Contributing:
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
